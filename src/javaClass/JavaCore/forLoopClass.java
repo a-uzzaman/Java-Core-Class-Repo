@@ -1,3 +1,4 @@
+package javaClass.JavaCore;
 
 public class forLoopClass {
 

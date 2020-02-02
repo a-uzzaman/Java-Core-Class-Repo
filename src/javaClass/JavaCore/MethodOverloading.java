@@ -14,7 +14,7 @@ public class MethodOverloading {
 	}
 	
 	static void addnumbers(float number1, float number2) {
-		System.out.println("With variable as int "+number1+" "+number2);
+		System.out.println("With variable as float "+number1+" "+number2);
 	}
 
 }

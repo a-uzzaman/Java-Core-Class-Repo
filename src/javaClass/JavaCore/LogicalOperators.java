@@ -1,6 +1,6 @@
 package javaClass.JavaCore;
 
-public class LogicalOperators {
+public class LogicalOperators extends importPackages{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -10,6 +10,7 @@ public class LogicalOperators {
 		
 		boolean r= x>y || y>z;
 		System.out.println(r);
+		addnumbers(x, y);
 	}
 
 }
